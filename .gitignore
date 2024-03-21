@@ -1,0 +1,8 @@
+#Ignorar o pycache
+__pycache__/
+#Ignorar meu conector do banco de dados de testes
+dbConnector.py
+#Ignorar minhas credenciais
+credenciais.py
+#Ignorar meus Cards
+cardsConfigOriginal.py
